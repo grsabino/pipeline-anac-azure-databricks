@@ -2,7 +2,7 @@
 	"name": "triggerAnac",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Stopped",
+		"runtimeState": "Started",
 		"pipelines": [
 			{
 				"pipelineReference": {
@@ -16,7 +16,7 @@
 			"recurrence": {
 				"frequency": "Day",
 				"interval": 1,
-				"startTime": "2025-02-14T20:55:00",
+				"startTime": "2025-02-14T21:01:00",
 				"timeZone": "E. South America Standard Time"
 			}
 		}
