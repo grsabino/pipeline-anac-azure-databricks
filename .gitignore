@@ -1,3 +1,4 @@
 # Ignorar arquivos de notebook Jupyter
-*.ipynb
 *.md
+*.txt
+*.ipynb
