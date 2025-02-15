@@ -2,14 +2,21 @@
 	"name": "trigger3",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Stopped",
-		"pipelines": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "pipeline-anac",
+					"type": "PipelineReference"
+				}
+			}
+		],
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
 				"frequency": "Day",
 				"interval": 1,
-				"startTime": "2025-02-14T21:45:00",
+				"startTime": "2025-02-14T21:58:00",
 				"timeZone": "E. South America Standard Time"
 			}
 		}
