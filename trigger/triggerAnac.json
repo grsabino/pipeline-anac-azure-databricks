@@ -1,7 +1,9 @@
 {
 	"name": "triggerAnac",
 	"properties": {
-		"annotations": [],
+		"annotations": [
+			"rodar"
+		],
 		"runtimeState": "Started",
 		"pipelines": [],
 		"type": "ScheduleTrigger",
